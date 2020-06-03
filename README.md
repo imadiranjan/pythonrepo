@@ -6,3 +6,10 @@ This is a pythonrepo
 This project requires Python3 and the requests package
 
 `python findmeteor.py`
+
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run ''python findmeteor.py"
+```
