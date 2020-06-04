@@ -11,5 +11,5 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run ''python findmeteor.py"
+pipenv run ''python meteors/findmeteor.py"
 ```
